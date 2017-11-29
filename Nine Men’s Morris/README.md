@@ -3,7 +3,7 @@
 Nine Men’s Morris is a mill-forming board game for two people that plays like a cross between Tic-Tac-Toe, Checkers, and Go. We will be writing a program that allows for the game to be played.
 
 ### Features
-
+```
   _   _ _              __  __            _       __  __                 _
  | \ | (_)_ __   ___  |  \/  | ___ _ __ ( )___  |  \/  | ___  _ __ _ __(_)___
  |  \| | | '_ \ / _ \ | |\/| |/ _ \ '_ \|// __| | |\/| |/ _ \| '__| '__| / __|
@@ -27,3 +27,4 @@ Nine Men’s Morris is a mill-forming board game for two people that plays like 
 	R         Restart the game
 	H         Display this menu of commands
 	Q         Quit the game
+```
