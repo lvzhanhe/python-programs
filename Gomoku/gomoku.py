@@ -1,6 +1,3 @@
-# DO NOT COPY AND PASTE FROM YOUR BROWSER. 
-# YOU MUST DOWNLOAD THIS FILE.
-
 class GoPiece(object):
     ''' It represents black or white pieces used in the game.'''
     def __init__(self,color = 'black'):
@@ -11,9 +8,6 @@ class GoPiece(object):
     
     def __str__(self):
         '''Display color'''
-#  Two strings to help you
-#            return ' ● '
-#            return ' ○ '
         if self.__color == 'black':
             return ' ● '
         elif self.__color == 'white':
